@@ -18,6 +18,7 @@
 16,NBA 2K17 ,37112,2671945,17,Sports,PS4,Take-Two Interactive,307
 17,Gears of War 4 ,32305,2689469,13,Shooter,XOne,Microsoft Game Studios,17
 18,Steep ,32121,576213,6,Sports,PS4,Ubisoft,280
+19,MineCraft ,31846,2231339,113,Misc,PSV,Sony Computer Entertainment America,4
 20,The Elder Scrolls V: Skyrim ,31313,1317294,11,Role-Playing,XOne,Bethesda Softworks,67
 21,Tom Clancy's The Division ,31230,4063359,44,Misc,PS4,Ubisoft,280
 22,Miitopia ,30819,155886,5,Role-Playing,3DS,Nintendo,709
@@ -31,6 +32,7 @@
 30,Grand Theft Auto V ,148569,13840933,113,Action,PS4,Take-Two Interactive,307
 31,Pokemon Sun/Moon ,139371,12486850,9,Role-Playing,3DS,Nintendo,709
 32,Kingdom Hearts HD 2.8 Final Chapter Prologue ,135626,135626,1,Role-Playing,PS4,Square Enix,126
+33,New Danganronpa V3: Minna no Koroshiai Shin Gakki ,80849,80849,1,Adventure,PSV,Screenlife,3
 34,FIFA 17 ,80512,9800257,16,Sports,PS4,Electronic Arts,381
 35,Uncharted ,71948,8463659,36,Action,PS4,Sony Computer Entertainment,37
 36,Call of Duty: Infinite Warfare ,70318,6399914,11,Shooter,PS4,Activision,294
@@ -38,6 +40,7 @@
 38,Watch Dogs 2 ,51921,2571617,9,Action,PS4,Ubisoft,280
 39,Battlefield 1 ,49443,6099754,13,Shooter,PS4,Electronic Arts,381
 40,Super Mario Maker ,43183,2023116,7,Platform,3DS,Nintendo,709
+41,New Danganronpa V3: Minna no Koroshiai Shin Gakki ,41901,41901,1,Adventure,PS4,Screenlife,3
 42,Grand Theft Auto V ,39499,5898554,113,Action,XOne,Take-Two Interactive,307
 43,Call of Duty: Infinite Warfare ,29680,3959301,11,Shooter,XOne,Activision,294
 44,Forza Horizon 3 ,28575,2007995,16,Racing,XOne,Microsoft Game Studios,17
@@ -54,6 +57,7 @@
 55,MineCraft ,17832,3587612,113,Misc,XOne,Microsoft Game Studios,17
 56,FIFA 17 ,16452,3284862,16,Sports,XOne,Electronic Arts,381
 57,The Last Guardian ,16125,953304,6,Action-Adventure,PS4,Sony Computer Entertainment,37
+58,MineCraft ,16031,4449395,120,Misc,PS4,Sony Computer Entertainment America,4
 59,Steep ,15674,591887,7,Sports,PS4,Ubisoft,280
 60,Gravity Rush 2 ,147859,147859,1,Action-Adventure,PS4,Sony Computer Entertainment,37
 61,Pokemon Sun/Moon ,99205,12586055,10,Role-Playing,3DS,Nintendo,709
@@ -67,6 +71,7 @@
 69,Watch Dogs 2 ,38243,2609860,10,Action,PS4,Ubisoft,280
 70,Final Fantasy XV ,37581,4133338,8,Role-Playing,PS4,Square Enix,126
 71,Madden NFL 17 ,37373,2750650,22,Sports,PS4,Electronic Arts,381
+72,Fate/Extella: The Umbral Star ,35706,153157,11,Action,PS4,Xseed Games,4
 73,Battlefield 1 ,33281,6133035,14,Shooter,PS4,Electronic Arts,381
 74,Super Mario Maker ,28115,2051231,8,Platform,3DS,Nintendo,709
 75,Grand Theft Auto V ,27137,5925691,114,Action,XOne,Take-Two Interactive,307
@@ -79,6 +84,8 @@
 82,Mario Kart ,22009,13494861,269,Racing,3DS,Nintendo,709
 83,Yo-Kai Watch 3: Sukiyaki ,20735,630266,6,Role-Playing,3DS,Level 5,14
 84,Valkyria: Azure Revolution ,20199,20199,1,Role-Playing,PSV,Sega,30
+85,Fate/Extella: The Umbral Star ,17757,120891,11,Action,PSV,Xseed Games,4
+86,New Danganronpa V3: Minna no Koroshiai Shin Gakki ,16165,97014,2,Adventure,PSV,Screenlife,3
 87,Forza Horizon 3 ,16093,2024088,17,Racing,XOne,Microsoft Game Studios,17
 88,Mafia III ,14747,2272026,16,Action-Adventure,PS4,Take-Two Interactive,307
 89,MineCraft ,14602,3602214,114,Misc,XOne,Microsoft Game Studios,17
@@ -98,6 +105,7 @@
 103,Gravity Rush 2 ,31808,179667,2,Action-Adventure,PS4,Sony Computer Entertainment,37
 104,Final Fantasy XV ,29392,4162730,9,Role-Playing,PS4,Square Enix,126
 105,NBA 2K17 ,27989,2748734,20,Sports,PS4,Take-Two Interactive,307
+106,Uta no Prince-Sama: Repeat Love ,27941,27941,1,Adventure,PSV,Broccoli,1
 107,Resident Evil VII: Biohazard ,27537,27537,1,Action,PC,Capcom,88
 108,Digimon World: Next Order ,26949,26949,1,Role-Playing,PS4,Namco Bandai Games,85
 109,Call of Duty: Infinite Warfare ,26468,4009409,13,Shooter,XOne,Activision,294
@@ -110,6 +118,7 @@
 116,Yoshi's Woolly World ,17622,67104,2,Platform,3DS,Nintendo,709
 117,Mafia III ,17271,2289297,17,Action-Adventure,PS4,Take-Two Interactive,307
 118,Watch Dogs 2 ,16470,1022894,11,Action,XOne,Ubisoft,280
+119,MineCraft ,16249,4479725,122,Misc,PS4,Sony Computer Entertainment Europe,1
 120,Resident Evil VII: Biohazard ,294579,1337888,2,Action,PS4,Capcom,88
 121,Hitman ,162930,208374,1,Action,PS4,Square Enix,126
 122,Yoshi's Woolly World ,89300,154804,3,Platform,3DS,Nintendo,709
@@ -136,6 +145,7 @@
 143,Yakuza Zero: The Place of Oath ,23081,317671,100,Adventure,PS4,Sega,30
 144,NBA 2K17 ,22487,1536220,21,Sports,XOne,Take-Two Interactive,307
 145,Battlefield 1 ,21742,4357548,16,Shooter,XOne,Electronic Arts,381
+146,MineCraft ,18491,4499416,123,Misc,PS4,Sony Computer Entertainment America,4
 147,FIFA 17 ,16568,3329244,19,Sports,XOne,Electronic Arts,381
 148,Tom Clancy's Rainbow Six: Siege ,16332,2389577,62,Shooter,PS4,Ubisoft,280
 149,Rocket League ,16320,822396,33,Sports,PS4,505 Games,8
@@ -147,6 +157,7 @@
 155,Call of Duty: Infinite Warfare ,58876,6629261,15,Shooter,PS4,Activision,294
 156,FIFA 17 ,48461,10019533,20,Sports,PS4,Electronic Arts,381
 157,Hitman ,44409,252783,2,Action,PS4,Square Enix,126
+158,Yonmegami Online: Cyber Dimension Neptune ,44395,44395,1,Role-Playing,PS4,Compile Heart,1
 159,Madden NFL 17 ,41654,2880339,25,Sports,PS4,Electronic Arts,381
 160,Resident Evil VII: Biohazard ,39649,359667,3,Action,XOne,Capcom,88
 161,Yoshi's Woolly World ,36612,191416,4,Platform,3DS,Nintendo,709
@@ -166,6 +177,7 @@
 175,Hitman ,17330,102868,2,Action,XOne,Square Enix,126
 176,Forza Horizon 3 ,17025,2068095,20,Racing,XOne,Microsoft Game Studios,17
 177,FIFA 17 ,16897,3346141,20,Sports,XOne,Electronic Arts,381
+178,MineCraft ,16363,4515779,124,Misc,PS4,Sony Computer Entertainment America,4
 179,Until Dawn: Rush of Blood ,16247,481830,18,Adventure,PS4,Sony Computer Entertainment,37
 180,For Honor ,611638,611638,1,Action,PS4,Ubisoft,280
 181,For Honor ,264541,264541,1,Action,XOne,Ubisoft,280
@@ -237,6 +249,7 @@
 247,Grand Theft Auto V ,82129,14339389,120,Action,PS4,Take-Two Interactive,307
 248,The Walking Dead - The Telltale Series: A New Frontier ,79290,79290,1,Adventure,PS4,Warner Bros. Interactive Entertainment,85
 249,Call of Duty: Infinite Warfare ,76353,6852587,18,Shooter,PS4,Activision,294
+250,Story of Seasons: Good Friends of the Three Villages ,67645,283774,37,Simulation,3DS,Marvelous Interactive,1
 251,For Honor ,57096,413151,3,Action,XOne,Ubisoft,280
 252,The Walking Dead - The Telltale Series: A New Frontier ,52477,52477,1,Adventure,XOne,Warner Bros. Interactive Entertainment,85
 253,Resident Evil VII: Biohazard ,50422,1678320,6,Action,PS4,Capcom,88
@@ -296,6 +309,7 @@
 307,Grand Theft Auto V ,64304,14474861,122,Action,PS4,Take-Two Interactive,307
 308,LEGO Worlds ,54635,176526,2,Misc,PS4,Warner Bros. Interactive Entertainment,85
 309,NieR Automata ,54435,454699,4,Role-Playing,PS4,Square Enix,126
+310,Senran Kagura: Peach Beach Splash ,49217,49217,1,Action,PS4,PQube,4
 311,For Honor ,47593,1032441,5,Action,PS4,Ubisoft,280
 312,Call of Duty: Infinite Warfare ,39975,6950307,20,Shooter,PS4,Activision,294
 313,Grand Theft Auto V ,37940,6208747,122,Action,XOne,Take-Two Interactive,307
@@ -311,6 +325,7 @@
 323,Styx: Shards of Darknes ,28158,28158,1,Action,PS4,Focus Home Interactive,9
 324,Overwatch ,27954,2858189,43,Shooter,PS4,Activision,294
 325,Battlefield 1 ,24153,6420572,22,Shooter,PS4,Electronic Arts,381
+326,The Binding of Isaac ,23209,23209,1,Action,NS,Nicalis,3
 327,Call of Duty: Infinite Warfare ,21840,4235005,20,Shooter,XOne,Activision,294
 328,Final Fantasy XV ,21469,4091608,16,Role-Playing,PS4,Square Enix,126
 329,NBA 2K17 ,20687,1723277,27,Sports,XOne,Take-Two Interactive,307
@@ -407,6 +422,7 @@
 420,The Legend of Zelda: Breath of the Wild ,122750,2374650,7,Action-Adventure,NS,Nintendo,709
 421,Tom Clancy's Ghost Recon Wildlands ,73602,1732671,6,Shooter,PS4,Ubisoft,280
 422,Pokemon Sun/Moon ,59863,13598091,22,Role-Playing,3DS,Nintendo,709
+423,Yooka-Laylee ,57411,57411,1,Platform,PS4,Sold Out,4
 424,Horizon: Zero Dawn ,55478,2501294,7,Action,PS4,Sony Interactive Entertainment,225
 425,Uncharted ,50201,8984183,49,Action,PS4,Sony Interactive Entertainment,225
 426,Persona 5 ,47204,830803,31,Role-Playing,PS4,Deep Silver,18
@@ -424,6 +440,7 @@
 438,MLB The Show 17 ,24818,746329,3,Sports,PS4,Sony Interactive Entertainment,225
 439,Grand Theft Auto V ,23996,6316454,126,Action,XOne,Take-Two Interactive,307
 440,NBA 2K17 ,22449,3129557,31,Sports,PS4,Take-Two Interactive,307
+441,Yooka-Laylee ,20834,20834,1,Platform,XOne,Sold Out,4
 442,Yokai Watch 2 Ganso/Honke ,20822,3450680,145,Role-Playing,3DS,Nintendo,709
 443,Forza Horizon 3 ,19870,2257439,29,Racing,XOne,Microsoft Studios,95
 444,Battlefield 1 ,19797,6514160,26,Shooter,PS4,Electronic Arts,381
@@ -445,6 +462,7 @@
 460,1-2-Switch ,30183,482138,8,Party,NS,Nintendo,709
 461,Call of Duty: Infinite Warfare ,28777,7110728,25,Shooter,PS4,Activision,294
 462,Mass Effect: Andromeda ,28563,930633,5,Role-Playing,PS4,Electronic Arts,381
+463,Dungeon Travelers 2-2: The Maiden Who Fell into Darkness and the Book of Beginnings ,27325,27325,1,Role-Playing,PSV,Aquaplus,1
 464,Monster Hunter Double Cross ,26979,1448324,6,Action,3DS,Capcom,88
 465,NieR Automata ,24740,597731,9,Role-Playing,PS4,Square Enix,126
 466,FIFA 17 ,24404,10376648,30,Sports,PS4,Electronic Arts,381
@@ -453,6 +471,7 @@
 469,Persona 5 ,19149,849952,32,Role-Playing,PS4,Deep Silver,18
 470,NBA 2K17 ,19121,3148678,32,Sports,PS4,Take-Two Interactive,307
 471,The Legend of Zelda: Breath of the Wild ,18963,929504,8,Action-Adventure,WiiU,Nintendo,709
+472,Deformers ,18310,18310,1,Action,PS4,Ready at Dawn,1
 473,Kingdom Hearts 1.5 + 2.5 Remix ,17896,497672,7,Role-Playing,PS4,Square Enix,126
 474,Tom Clancy's Rainbow Six: Siege ,17503,2608476,73,Shooter,PS4,Ubisoft,280
 475,Final Fantasy XV ,17309,4196691,21,Role-Playing,PS4,Square Enix,126
@@ -463,11 +482,13 @@
 480,Mario Kart 8 Deluxe ,1261073,1261073,1,Racing,NS,Nintendo,709
 481,The Legend of Zelda: Breath of the Wild ,122204,2578705,9,Action-Adventure,NS,Nintendo,709
 482,Dragon Ball Heroes: Ultimate Mission X ,96780,96780,1,Misc,3DS,Namco Bandai Games,85
+483,Sniper: Ghost Warrior 3 ,82435,82435,1,Shooter,PS4,City Interactive,3
 484,Little Nightmares ,71650,71650,1,Platform,PS4,Namco Bandai Games,85
 485,Tom Clancy's Ghost Recon Wildlands ,58145,1862606,8,Shooter,PS4,Ubisoft,280
 486,Pokemon Sun/Moon ,48955,13695053,24,Role-Playing,3DS,Nintendo,709
 487,Puyo Puyo Tetris ,47125,78336,9,Puzzle,NS,Sega,30
 488,Horizon: Zero Dawn ,46101,2592136,9,Action,PS4,Sony Interactive Entertainment,225
+489,Sniper: Ghost Warrior 3 ,45810,45810,1,Shooter,XOne,City Interactive,3
 490,Grand Theft Auto V ,37819,14743412,128,Action,PS4,Take-Two Interactive,307
 491,Uncharted ,34115,9056844,51,Action,PS4,Sony Interactive Entertainment,225
 492,1-2-Switch ,32614,514752,9,Party,NS,Nintendo,709
@@ -504,6 +525,7 @@
 523,Little Nightmares ,27523,99173,2,Platform,PS4,Namco Bandai Games,85
 524,NieR Automata ,27517,653484,11,Role-Playing,PS4,Square Enix,126
 525,Tom Clancy's Ghost Recon Wildlands ,24271,992933,9,Shooter,XOne,Ubisoft,280
+526,Sniper: Ghost Warrior 3 ,20791,103226,2,Shooter,PS4,City Interactive,3
 527,Forza Horizon 3 ,20102,2310995,32,Racing,XOne,Microsoft Studios,95
 528,Mass Effect: Andromeda ,19380,974209,7,Role-Playing,PS4,Electronic Arts,381
 529,FIFA 17 ,19239,10417904,32,Sports,PS4,Electronic Arts,381
@@ -569,8 +591,10 @@
 589,Tom Clancy's Ghost Recon Wildlands ,17373,1031875,11,Shooter,XOne,Ubisoft,280
 590,Resident Evil VII: Biohazard ,17320,1904204,17,Action,PS4,Capcom,88
 591,Mario Kart ,17039,13758024,286,Racing,3DS,Nintendo,709
+592,Akiba's Beat ,16362,27914,23,Action,PS4,PQube,4
 593,Tom Clancy's Rainbow Six: Siege ,15772,2679676,77,Shooter,PS4,Ubisoft,280
 594,Overwatch ,15199,1715560,52,Shooter,XOne,Activision,294
+595,Akiba's Beat ,15144,15144,1,Action,PSV,PQube,4
 596,Prey ,14841,95632,3,Shooter,XOne,Bethesda Softworks,67
 597,Kingdom Hearts 1.5 + 2.5 Remix ,14790,556888,11,Role-Playing,PS4,Square Enix,126
 598,1-2-Switch ,14565,576665,12,Party,NS,Nintendo,709
@@ -586,10 +610,14 @@
 608,Horizon: Zero Dawn ,38583,2743235,13,Action,PS4,Sony Interactive Entertainment,225
 609,Prey ,36762,273211,4,Shooter,PS4,Bethesda Softworks,67
 610,Tom Clancy's Ghost Recon Wildlands ,36418,2024961,12,Shooter,PS4,Ubisoft,280
+611,Disgaea 5 Complete ,31993,51646,13,Role-Playing,NS,Nippon Ichi Software,4
 612,FIFA 17 ,31085,10492442,35,Sports,PS4,Electronic Arts,381
 613,Overwatch ,28021,3079674,53,Shooter,PS4,Activision,294
+614,Ys VIII: Lacrimosa of Dana ,26732,26732,1,Role-Playing,PS4,Nippon Ichi Software,4
 615,Grand Theft Auto V ,21841,6423056,132,Action,XOne,Take-Two Interactive,307
+616,Guilty Gear Xrd REV 2 ,21402,21402,1,Fighting,PS4,PQube,4
 617,Uncharted ,21240,9162867,55,Action,PS4,Sony Interactive Entertainment,225
+618,Rime ,19109,19109,1,Adventure,PS4,Grey Box,1
 619,Call of Duty: Infinite Warfare ,18548,7233730,30,Shooter,PS4,Activision,294
 620,Mario Kart ,17899,13775923,287,Racing,3DS,Nintendo,709
 621,Dishonored 2 ,17738,1479521,29,Action,PS4,Bethesda Softworks,67
@@ -619,6 +647,7 @@
 645,Star Trek Bridge Crew VR ,34700,34700,1,Action,PS4,Ubisoft,280
 646,Seiken Densetsu Collection ,30507,30507,1,Role-Playing,NS,Square Enix,126
 647,Call of Duty: Infinite Warfare ,26995,7260725,31,Shooter,PS4,Activision,294
+648,MXGP 3: The Official Motocross Videogame ,26495,26495,1,Racing,PS4,Milestone,2
 649,Grand Theft Auto V ,26266,6449322,133,Action,XOne,Take-Two Interactive,307
 650,Uncharted ,26011,9188878,56,Action,PS4,Sony Interactive Entertainment,225
 651,Overwatch ,23551,1755851,54,Shooter,XOne,Activision,294
@@ -628,6 +657,7 @@
 655,Kingdom Hearts 1.5 + 2.5 Remix ,19036,590012,13,Role-Playing,PS4,Square Enix,126
 656,Persona 5 ,18592,950613,38,Role-Playing,PS4,Deep Silver,18
 657,1-2-Switch ,18371,611060,14,Party,NS,Nintendo,709
+658,Disgaea 5 Complete ,18071,69717,14,Role-Playing,NS,Nippon Ichi Software,4
 659,Tom Clancy's Rainbow Six: Siege ,18003,2712497,79,Shooter,PS4,Ubisoft,280
 660,Tekken 7 ,165017,596076,2,Fighting,PS4,Namco Bandai Games,85
 661,Mario Kart 8 Deluxe ,105818,2265692,7,Racing,NS,Nintendo,709
@@ -699,6 +729,7 @@
 727,Pokemon Sun/Moon ,37669,14066835,32,Role-Playing,3DS,Nintendo,709
 728,Injustice 2 ,31143,790928,6,Fighting,PS4,Warner Bros. Interactive Entertainment,85
 729,Tom Clancy's Ghost Recon Wildlands ,31103,2151323,16,Shooter,PS4,Ubisoft,280
+730,Cave Story+ ,29224,29224,1,Platform,NS,Nicalis,3
 731,The Alliance Alive ,28178,28178,1,Role-Playing,3DS,Atlus,7
 732,Ever Oasis ,27803,27803,1,Role-Playing,3DS,Nintendo,709
 733,Final Fantasy XIV: Stormblood ,27161,27161,1,MMO,PC,Square Enix,126
@@ -713,6 +744,7 @@
 742,FIFA 17 ,15522,10592911,39,Sports,PS4,Electronic Arts,381
 743,Forza Horizon 3 ,15077,2410112,39,Racing,XOne,Microsoft Studios,95
 744,MLB The Show 17 ,14912,827344,13,Sports,PS4,Sony Interactive Entertainment,225
+745,MXGP 3: The Official Motocross Videogame ,14858,54753,4,Racing,PS4,Milestone,2
 746,WipEout Omega Collection ,14612,143271,3,Racing,PS4,Sony Interactive Entertainment,225
 747,DiRT 4 ,13732,109769,3,Racing,PS4,Codemasters,12
 748,Tom Clancy's Rainbow Six: Siege ,13715,2756145,82,Shooter,PS4,Ubisoft,280
@@ -833,6 +865,7 @@
 863,NBA 2K17 ,17841,3329627,45,Sports,PS4,Take-Two Interactive,307
 865,Kingdom Hearts 1.5 + 2.5 Remix ,17061,699160,20,Role-Playing,PS4,Square Enix,126
 866,FIFA 17 ,17056,10655490,43,Sports,PS4,Electronic Arts,381
+867,Fate/Extella: The Umbral Star ,16706,16706,1,Action,NS,Xseed Games,4
 868,Injustice 2 ,15762,436415,10,Fighting,XOne,Warner Bros. Interactive Entertainment,85
 869,MineCraft ,14487,4805012,147,Misc,PS4,Sony Computer Entertainment,37
 870,Dragon Quest XI ,1140527,1140527,1,Role-Playing,3DS,Square Enix,126
@@ -1082,6 +1115,7 @@
 1114,Destiny 2 ,167077,2145236,4,Shooter,PS4,Activision,294
 1115,NBA 2K18 ,159730,651691,3,Sports,XOne,Take-Two Interactive,307
 1116,FIFA 18 ,114405,114405,1,Sports,NS,Electronic Arts,381
+1117,The Legend of Heroes: Trails of Cold Steel III ,92129,92129,1,Role-Playing,PS4,Nihon Falcom Corporation,1
 1118,Destiny 2 ,80478,1039979,4,Shooter,XOne,Activision,294
 1119,Pokken Tournament ,78091,248892,2,Fighting,NS,Nintendo,709
 1120,Mario Kart 8 Deluxe ,74561,3373819,23,Racing,NS,Nintendo,709
@@ -1157,6 +1191,7 @@
 1190,FIFA 18 ,35626,200255,3,Sports,NS,Electronic Arts,381
 1191,Uncharted: The Lost Legacy ,33103,1157836,8,Action,PS4,Sony Interactive Entertainment,225
 1192,Mario + Rabbids Kingdom Battle ,32114,558908,7,Strategy,NS,Ubisoft,280
+1193,Friday the 13th: The Game ,31632,31632,1,Action,PS4,Gun Media,1
 1194,Forza Horizon 3 ,26707,2769853,55,Racing,XOne,Microsoft Studios,95
 1195,Pro Evolution Soccer 2018 ,23620,364038,5,Sports,PS4,Konami Digital Entertainment,20
 1196,Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy ,23155,195972,16,Puzzle,3DS,Level 5,14
@@ -1184,6 +1219,7 @@
 1218,City Shrouded in Shadow ,47752,47752,1,Action-Adventure,PS4,Namco Bandai Games,85
 1219,Grand Theft Auto V ,44081,15925666,153,Action,PS4,Take-Two Interactive,307
 1220,Crash Bandicoot N. Sane Trilogy ,42802,2583259,17,Platform,PS4,Activision,294
+1221,Elex ,42623,42623,1,Role-Playing,PS4,THQ Nordic,3
 1222,Madden NFL 18 ,42402,1275867,9,Sports,PS4,Electronic Arts,381
 1223,Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary ,40919,40919,1,Misc,PS4,Square Enix,126
 1224,Pokken Tournament ,38492,374642,5,Fighting,NS,Nintendo,709
@@ -1389,6 +1425,7 @@
 1424,Need for Speed: Payback ,115047,915501,5,Racing,PS4,Electronic Arts,381
 1425,Star Wars Battlefront II ,114316,919125,4,Shooter,XOne,Electronic Arts,381
 1426,Grand Theft Auto V ,112651,16526182,160,Action,PS4,Take-Two Interactive,307
+1427,Earth Defense Force 5 ,108546,108546,1,Shooter,PS4,D3Publisher ,1
 1428,NBA 2K18 ,107140,2222767,13,Sports,PS4,Take-Two Interactive,307
 1429,Xenoblade Chronicles 2 ,106913,544029,2,Role-Playing,NS,Nintendo,709
 1430,Pokken Tournament ,106624,782960,12,Fighting,NS,Nintendo,709
@@ -1689,6 +1726,7 @@
 1725,Monster Hunter: World ,53827,525064,4,Action,XOne,Capcom,88
 1726,Splatoon 2 ,51577,4635460,31,Shooter,NS,Nintendo,709
 1727,Pokemon: Ultra Sun and Ultra Moon ,49250,5764158,14,Role-Playing,3DS,Nintendo,709
+1728,Monster Energy Supercross - The Official Videogame ,37371,37371,1,Racing,PS4,Milestone S.r.l.,2
 1729,Crash Bandicoot N. Sane Trilogy ,36321,3833554,34,Platform,PS4,Activision,294
 1730,Radiant Historia: Perfect Chronology ,34910,95731,34,Role-Playing,3DS,Deep Silver,18
 1731,Star Wars Battlefront II ,32666,3689189,14,Shooter,PS4,Electronic Arts,381
@@ -1697,6 +1735,7 @@
 1734,Grand Theft Auto V ,30192,7694672,170,Action,XOne,Take-Two Interactive,307
 1735,Assassin's Creed Origins ,29202,3378483,17,Action,PS4,Ubisoft,280
 1736,Call of Duty: WWII ,28092,5754544,16,Shooter,XOne,Activision,294
+1737,Monster Energy Supercross - The Official Videogame ,26816,26816,1,Racing,XOne,Milestone S.r.l.,2
 1738,Madden NFL 18 ,26799,2404666,26,Sports,PS4,Electronic Arts,381
 1739,Overwatch ,25259,4032398,91,Shooter,PS4,Activision,294
 1740,Monster Hunter: World ,164582,3623715,5,Action,PS4,Capcom,88
@@ -1725,6 +1764,7 @@
 1763,PlayerUnknown's Battlegrounds ,27340,1244129,11,Shooter,XOne,Microsoft Studios,95
 1764,Call of Duty: WWII ,27232,5781776,17,Shooter,XOne,Activision,294
 1765,Assassin's Creed Origins ,25328,3403811,18,Action,PS4,Ubisoft,280
+1766,Senran Kagura Burst Re:Newal ,25091,25091,1,Action,PS4,Marvelous,3
 1767,Dynasty Warriors 9 ,23776,221284,3,Action,PS4,Tecmo Koei,20
 1768,Need for Speed: Payback ,23256,1580410,16,Racing,PS4,Electronic Arts,381
 1769,Grand Theft Auto V ,22858,7717530,171,Action,XOne,Take-Two Interactive,307
@@ -1769,6 +1809,7 @@
 1808,Call of Duty: WWII ,47906,12510431,19,Shooter,PS4,Activision,294
 1809,FIFA 18 ,46115,10769302,24,Sports,PS4,Electronic Arts,381
 1810,Pokemon: Ultra Sun and Ultra Moon ,38223,5891049,17,Role-Playing,3DS,Nintendo,709
+1811,TT Isle of Man: Ride on the Edge ,37983,37983,1,Racing,PS4,Big Ben Interactive,1
 1812,Assassin's Creed Origins ,31204,3463516,20,Action,PS4,Ubisoft,280
 1813,Dragon Ball Fighter Z ,30572,974156,7,Fighting,PS4,Namco Bandai Games,85
 1814,Resident Evil VII: Biohazard ,29100,2720807,59,Action,PS4,Capcom,88
@@ -1873,6 +1914,7 @@
 1913,Assassin's Creed Origins ,31293,3532730,23,Action,PS4,Ubisoft,280
 1914,EA Sports UFC 3 ,28271,506622,9,Sports,PS4,Electronic Arts,381
 1915,Mario + Rabbids Kingdom Battle ,27966,1848296,31,Strategy,NS,Ubisoft,280
+1916,MX vs ATV All Out ,27203,27203,1,Racing,PS4,THQ Nordic,3
 1917,Need for Speed: Payback ,24858,1688618,21,Racing,PS4,Electronic Arts,381
 1918,Star Wars Battlefront II ,24482,3839643,20,Shooter,PS4,Electronic Arts,381
 1919,Call of Duty: WWII ,24437,5900798,22,Shooter,XOne,Activision,294
@@ -1959,10 +2001,12 @@
 2000,Horizon: Zero Dawn ,20801,4858559,60,Action,PS4,Sony Interactive Entertainment,225
 2001,Crash Bandicoot N. Sane Trilogy ,20304,4102141,43,Platform,PS4,Activision,294
 2002,Call of Duty: WWII ,20211,12731052,25,Shooter,PS4,Activision,294
+2003,Wild Guns Reloaded ,19377,19377,1,Shooter,NS,Natsume,4
 2004,Shadow of the Colossus ,17907,746028,11,Action-Adventure,PS4,Sony Interactive Entertainment,225
 2005,Don't Starve ,17545,17545,13,Adventure,XOne,505 Games,8
 2006,Mario + Rabbids Kingdom Battle ,16339,1907214,34,Strategy,NS,Ubisoft,280
 2007,Ni no Kuni II: Revenant Kingdom ,16227,438949,5,Role-Playing,PS4,Namco Bandai Games,85
+2008,Metal Max Xeno ,16029,16029,1,Role-Playing,PS4,Kadokawa Games,1
 2009,Tom Clancy's Rainbow Six: Siege ,15615,3823244,125,Shooter,PS4,Ubisoft,280
 2010,God of War ,780846,3042262,2,Action,PS4,Sony Interactive Entertainment,225
 2011,Far Cry 5 ,153884,2852600,5,Action,PS4,Ubisoft,280
@@ -1975,6 +2019,7 @@
 2018,The Legend of Zelda: Breath of the Wild ,42933,7206926,61,Action-Adventure,NS,Nintendo,709
 2019,Super Mario Odyssey ,42508,9199416,27,Platform,NS,Nintendo,709
 2020,Kirby ,41094,1131136,7,Platform,NS,Nintendo,709
+2021,Rick & Morty Virtual Rick-Ality ,37850,37850,1,Simulation,PS4,Nighthawk Interactive,1
 2022,Nintendo Labo: Toy-Con 02 Robot Kit ,37607,102791,2,Action,NS,Nintendo,709
 2023,Pokemon: Ultra Sun and Ultra Moon ,33646,6116297,24,Role-Playing,3DS,Nintendo,709
 2024,FIFA 18 ,33071,11117567,31,Sports,PS4,Electronic Arts,381
@@ -1985,6 +2030,7 @@
 2029,Monster Hunter: World ,22750,4069941,14,Action,PS4,Capcom,88
 2030,Star Wars Battlefront II ,21256,3935414,24,Shooter,PS4,Electronic Arts,381
 2031,Crash Bandicoot N. Sane Trilogy ,21229,4123370,44,Platform,PS4,Activision,294
+2032,Utawarerumono: Chiriyukusha e no Komoriuta ,19593,19593,1,Role-Playing,PS4,Aqua Plus,1
 2033,MLB The Show 18 ,19570,628312,5,Sports,PS4,Sony Interactive Entertainment,225
 2034,Horizon: Zero Dawn ,18564,4877123,61,Action,PS4,Sony Interactive Entertainment,225
 2035,Shadow of the Colossus ,17111,763139,12,Action-Adventure,PS4,Sony Interactive Entertainment,225
@@ -2032,6 +2078,7 @@
 2077,The Legend of Zelda: Breath of the Wild ,38319,7293743,63,Action-Adventure,NS,Nintendo,709
 2078,Nintendo Labo: Toy-Con 01 Variety Kit ,34783,427646,4,Misc,NS,Nintendo,709
 2079,Splatoon 2 ,34357,5300493,43,Shooter,NS,Nintendo,709
+2080,Shantae: Half-Genie Hero ,29246,34948,3,Platform,NS,Xseed Games,4
 2081,Pokemon: Ultra Sun and Ultra Moon ,27222,6181674,26,Role-Playing,3DS,Nintendo,709
 2082,FIFA 18 ,25701,11175765,33,Sports,PS4,Electronic Arts,381
 2083,Kirby ,24580,1200048,9,Platform,NS,Nintendo,709
@@ -2066,6 +2113,7 @@
 2112,Grand Theft Auto V ,24138,18042117,183,Action,PS4,Take-Two Interactive,307
 2113,Pokemon: Ultra Sun and Ultra Moon ,23750,6205424,27,Role-Playing,3DS,Nintendo,709
 2114,Kirby ,22386,1222434,10,Platform,NS,Nintendo,709
+2115,Caligula Overdose ,19321,19321,1,Role-Playing,PS4,FuRyu Corporation,1
 2116,Call of Duty: WWII ,17675,12810838,29,Shooter,PS4,Activision,294
 2117,Monster Hunter: World ,16995,4124483,17,Action,PS4,Capcom,88
 2118,Assassin's Creed Origins ,16124,3662079,30,Action,PS4,Ubisoft,280
@@ -2122,6 +2170,7 @@
 2169,Far Cry 5 ,51459,3228977,10,Action,PS4,Ubisoft,280
 2170,Street Fighter 30th Anniversary Collection ,49247,49247,1,Fighting,NS,Capcom,88
 2171,FIFA 18 ,48090,11307462,36,Sports,PS4,Electronic Arts,381
+2172,Harvest Moon: Light of Hope ,45857,45857,1,Simulation,NS,Natsume,4
 2173,The Legend of Zelda: Breath of the Wild ,42382,7410683,66,Action-Adventure,NS,Nintendo,709
 2174,Splatoon 2 ,41483,5408400,46,Shooter,NS,Nintendo,709
 2175,Pokemon: Ultra Sun and Ultra Moon ,32634,6264317,29,Role-Playing,3DS,Nintendo,709
@@ -2138,15 +2187,18 @@
 2186,Nintendo Labo: Toy-Con 01 Variety Kit ,20559,500457,7,Misc,NS,Nintendo,709
 2187,Destiny 2 ,20401,3662656,39,Shooter,PS4,Activision,294
 2188,Star Wars Battlefront II ,18706,4019986,29,Shooter,PS4,Electronic Arts,381
+2189,Harvest Moon: Light of Hope ,18269,18269,1,Simulation,PS4,Natsume,4
 2190,God of War ,115996,4116426,8,Action,PS4,Sony Interactive Entertainment,225
 2191,Vampyr ,105826,105826,1,Role-Playing,PS4,Focus Home Interactive,9
 2192,Detroit: Become Human ,100530,663344,3,Adventure,PS4,Sony Interactive Entertainment,225
+2193,Fate/Extella Link ,81581,81581,1,Action,PS4,Marvelous,3
 2194,Mario Kart 8 Deluxe ,56727,8397478,59,Racing,NS,Nintendo,709
 2195,Donkey Kong Country: Tropical Freeze ,56646,720525,6,Platform,NS,Nintendo,709
 2196,Super Mario Odyssey ,46296,9468005,33,Platform,NS,Nintendo,709
 2197,Pokemon: Ultra Sun and Ultra Moon ,45594,6309911,30,Role-Playing,3DS,Nintendo,709
 2198,Far Cry 5 ,44093,3273070,11,Action,PS4,Ubisoft,280
 2199,The Legend of Zelda: Breath of the Wild ,39918,7450601,67,Action-Adventure,NS,Nintendo,709
+2200,Fate/Extella Link ,39089,39089,1,Action,PSV,Marvelous,3
 2201,Vampyr ,37855,37855,1,Role-Playing,XOne,Focus Home Interactive,9
 2202,Splatoon 2 ,37628,5446028,47,Shooter,NS,Nintendo,709
 2203,FIFA 18 ,33483,11340945,37,Sports,PS4,Electronic Arts,381
@@ -2154,6 +2206,7 @@
 2205,State of Decay 2 ,28604,263861,3,Action-Adventure,XOne,Microsoft Studios,95
 2206,Mario + Rabbids Kingdom Battle ,27613,2024743,41,Strategy,NS,Ubisoft,280
 2207,Far Cry 5 ,23533,1425163,11,Action,XOne,Ubisoft,280
+2208,BlazBlue: Cross Tag Battle ,22238,34915,2,Fighting,PS4,Arc System Works,2
 2209,Fallout 4 ,21227,8212697,135,Role-Playing,PS4,Bethesda Softworks,67
 2210,Kirby ,21037,1293010,13,Platform,NS,Nintendo,709
 2211,PlayerUnknown's Battlegrounds ,20198,1601796,26,Shooter,XOne,Microsoft Studios,95
@@ -2164,6 +2217,7 @@
 2216,FIFA 18 ,17805,2956039,37,Sports,XOne,Electronic Arts,381
 2217,Destiny 2 ,17595,3680251,40,Shooter,PS4,Activision,294
 2218,NBA 2K18 ,17517,3166102,39,Sports,PS4,Take-Two Interactive,307
+2219,BlazBlue: Cross Tag Battle ,16891,21662,2,Fighting,NS,Arc System Works,2
 2220,God of War ,123496,4239922,9,Action,PS4,Sony Interactive Entertainment,225
 2221,Detroit: Become Human ,61103,724447,4,Adventure,PS4,Sony Interactive Entertainment,225
 2222,Mario Kart 8 Deluxe ,54590,8452068,60,Racing,NS,Nintendo,709
@@ -2241,6 +2295,7 @@
 2294,Wolfenstein II: The New Colossus ,31708,31708,1,Shooter,NS,Bethesda Softworks,67
 2295,Far Cry 5 ,30662,3367046,14,Action,PS4,Ubisoft,280
 2296,Donkey Kong Country: Tropical Freeze ,30585,838688,9,Platform,NS,Nintendo,709
+2297,Ys VIII: Lacrimosa of Dana ,23530,23530,1,Role-Playing,NS,Nippon Ichi Software,4
 2298,Star Wars Battlefront II ,18419,4070087,33,Shooter,PS4,Electronic Arts,381
 2299,Call of Duty: WWII ,18002,12925561,35,Shooter,PS4,Activision,294
 2300,Horizon: Zero Dawn ,17306,5029418,70,Action,PS4,Sony Interactive Entertainment,225
@@ -2252,6 +2307,7 @@
 2306,Mario + Rabbids Kingdom Battle ,15582,2062605,44,Strategy,NS,Ubisoft,280
 2307,FIFA 18 ,14774,2998421,40,Sports,XOne,Electronic Arts,381
 2308,FIFA 18 ,13732,938691,40,Sports,NS,Electronic Arts,381
+2309,Harvest Moon: Light of Hope ,13397,75769,5,Simulation,NS,Natsume,4
 2310,Jurassic World Evolution ,142118,142118,1,Simulation,PS4,Frontier Developments,6
 2311,Mario Tennis Aces ,134504,824076,3,Sports,NS,Nintendo,709
 2312,The Crew 2 ,86592,293828,2,Racing,PS4,Ubisoft,280
@@ -2276,6 +2332,7 @@
 2331,Assassin's Creed Origins ,17945,3786974,37,Action,PS4,Ubisoft,280
 2332,Mario + Rabbids Kingdom Battle ,16983,2079588,45,Strategy,NS,Ubisoft,280
 2333,Horizon: Zero Dawn ,16628,5046046,71,Action,PS4,Sony Interactive Entertainment,225
+2334,Zanki Zero: Last Beginning ,15528,15528,1,Role-Playing,PS4,Spike Chunsoft,3
 2335,FIFA 18 ,15283,3013704,41,Sports,XOne,Electronic Arts,381
 2336,Far Cry 5 ,15159,1495155,15,Action,XOne,Ubisoft,280
 2337,Wolfenstein II: The New Colossus ,14449,46157,2,Shooter,NS,Bethesda Softworks,67
@@ -2343,6 +2400,7 @@
 2399,Grand Theft Auto V ,18808,8017958,192,Action,XOne,Take-Two Interactive,307
 2400,Mario Kart 8 Deluxe ,86595,8910996,66,Racing,NS,Nintendo,709
 2401,Project Octopath Traveler ,64791,513829,3,Role-Playing,NS,Nintendo,709
+2402,Mega Man Legacy Collection 1+2 ,52911,52911,1,Platform,PS4,Capcom Entertainment,1
 2403,Splatoon 2 ,52581,5784059,54,Shooter,NS,Nintendo,709
 2404,The Legend of Zelda: Breath of the Wild ,52137,7772305,74,Action-Adventure,NS,Nintendo,709
 2405,God of War ,51063,4648997,15,Action,PS4,Sony Interactive Entertainment,225
@@ -2415,15 +2473,18 @@
 2472,Captain Toad: Treasure Tracker ,31768,342708,5,Puzzle,NS,Nintendo,709
 2473,WarioWare Gold ,31712,95141,3,Misc,3DS,Nintendo,709
 2474,Yakuza 3 ,25974,25974,1,Action-Adventure,PS4,Sega,30
+2475,Overcooked! 2 ,25669,25669,1,Simulation,NS,Sold Out,4
 2476,Donkey Kong Country: Tropical Freeze ,24830,1000776,15,Platform,NS,Nintendo,709
 2477,Pokemon: Ultra Sun and Ultra Moon ,23094,6519625,39,Role-Playing,3DS,Nintendo,709
 2478,Grand Theft Auto V ,23001,8072583,195,Action,XOne,Take-Two Interactive,307
 2479,Taiko no Tatsujin: Drum 'n' Fun! ,22450,143396,4,Music,NS,Namco Bandai Games,85
 2480,We Happy Few ,22029,22029,1,Action-Adventure,XOne,Gearbox Software,11
 2481,Crash Bandicoot N. Sane Trilogy ,21331,349466,7,Platform,NS,Activision,294
+2482,Overcooked! 2 ,21063,21063,1,Simulation,PS4,Sold Out,4
 2483,Detroit: Become Human ,20828,972460,12,Adventure,PS4,Sony Interactive Entertainment,225
 2484,The Crew 2 ,20191,452829,7,Racing,PS4,Ubisoft,280
 2485,Horizon: Zero Dawn ,20157,5139741,76,Action,PS4,Sony Interactive Entertainment,225
+2486,Fire Pro Wrestling World ,19150,19150,1,Fighting,PS4,Spike Chunsoft,3
 2487,Kirby ,19108,1479149,22,Platform,NS,Nintendo,709
 2488,LEGO The Incredibles ,18945,169828,9,Action,PS4,Warner Bros. Interactive Entertainment,85
 2489,LEGO The Incredibles ,16519,137570,9,Action,NS,Warner Bros. Interactive Entertainment,85
@@ -2445,6 +2506,7 @@
 2505,Donkey Kong Country: Tropical Freeze ,25569,1026345,16,Platform,NS,Nintendo,709
 2506,Taiko no Tatsujin: Drum 'n' Fun! ,22271,165667,5,Music,NS,Namco Bandai Games,85
 2507,Grand Theft Auto V ,22150,8094733,196,Action,XOne,Take-Two Interactive,307
+2508,Dead Cells ,19322,19322,1,Action,NS,Merge Games,1
 2509,Detroit: Become Human ,19113,991573,13,Adventure,PS4,Sony Interactive Entertainment,225
 2510,Kirby ,18557,1497706,23,Platform,NS,Nintendo,709
 2511,Crash Bandicoot N. Sane Trilogy ,17454,366920,8,Platform,NS,Activision,294
@@ -2482,6 +2544,7 @@
 2543,Kirby ,19050,1516756,24,Platform,NS,Nintendo,709
 2544,Far Cry 5 ,17570,3561817,22,Action,PS4,Ubisoft,280
 2545,The Crew 2 ,17112,485110,9,Racing,PS4,Ubisoft,280
+2546,Little Dragon Cafe ,16994,16994,1,Simulation,NS,Aksys Games,1
 2547,Call of Duty: WWII ,16586,13066446,43,Shooter,PS4,Activision,294
 2548,My Hero One's Justice ,15947,15947,1,Fighting,PS4,Bandai Namco Entertainment,16
 2549,Horizon: Zero Dawn ,15687,5172598,78,Action,PS4,Sony Interactive Entertainment,225
@@ -2511,8 +2574,10 @@
 2573,Horizon: Zero Dawn ,20809,5193407,79,Action,PS4,Sony Interactive Entertainment,225
 2574,Donkey Kong Country: Tropical Freeze ,20711,1067491,18,Platform,NS,Nintendo,709
 2575,Far Cry 5 ,20512,3582329,23,Action,PS4,Ubisoft,280
+2576,Fire Pro Wrestling World ,20166,43564,4,Fighting,PS4,Spike Chunsoft,3
 2577,Conan Exiles ,19201,145826,17,Action-Adventure,PS4,Maximum Games,8
 2578,Project Octopath Traveler ,18814,660392,8,Role-Playing,NS,Nintendo,709
+2579,Blade Strangers ,18210,18210,1,Fighting,NS,Nicalis,3
 2580,Spider-Man ,2422223,2422223,1,Action-Adventure,PS4,Sony Interactive Entertainment,225
 2581,Dragon Quest XI ,146988,1574602,59,Role-Playing,PS4,Square Enix,126
 2582,Madden NFL 19 ,80847,949478,5,Sports,PS4,Electronic Arts,381
@@ -2612,6 +2677,7 @@
 2676,NBA 2K19 ,109743,714687,3,Sports,XOne,Take-Two Interactive,307
 2677,Dragon Ball FighterZ ,103091,103091,1,Fighting,NS,Bandai Namco Entertainment,16
 2678,Warriors  Orochi 4 ,102628,102628,1,Action,PS4,Tecmo Koei,20
+2679,The Legend of Heroes: Trails of Cold Steel IV ,95709,95709,1,Role-Playing,PS4,Falcom,1
 2680,Madden NFL 19 ,81398,1243100,8,Sports,PS4,Electronic Arts,381
 2681,Mario Kart 8 Deluxe ,67900,9534666,75,Racing,NS,Nintendo,709
 2682,Valkyria Chronicles 4 ,60633,60633,1,Strategy,NS,Sega,30
@@ -2893,6 +2959,7 @@
 2958,Madden NFL 19 ,140363,1872665,17,Sports,PS4,Electronic Arts,381
 2959,Forza Horizon 4 ,134964,1337953,9,Racing,XOne,Microsoft Studios,95
 2960,The Legend of Zelda: Breath of the Wild ,129719,8794894,92,Action-Adventure,NS,Nintendo,709
+2961,Darksiders III ,128698,128698,1,Action,PS4,THQ Nordic,3
 2962,NBA 2K19 ,128695,1333359,12,Sports,XOne,Take-Two Interactive,307
 2963,Shadow of the Tomb Raider ,128361,1457905,12,Action-Adventure,PS4,Square Enix,126
 2964,Super Mario Odyssey ,127811,10905573,58,Platform,NS,Nintendo,709
