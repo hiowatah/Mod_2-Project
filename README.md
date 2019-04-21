@@ -18,7 +18,7 @@ I got my data from VGChartz.com as it had all the information I needed as part o
 Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to further clean up my data. The Game Title column had contained the information relating to game genre, publisher, and the console, so I parsed through it through a series of lambda functions to create the columns. My Final DataFrame looked like what you see below:
 
 <p align="center">
-  <img src="./Images/Final DataFrame.png" title="Data Collected">
+  <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:300px;height:500px>
 </p>
 
 # Exploratory Data Analysis
