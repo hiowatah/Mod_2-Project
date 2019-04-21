@@ -31,15 +31,13 @@ Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to fu
 <p align="center">
   <img src="./Images/Initial OLS.png" title="Initial OLS">
 </p>
+
+Because most of my data consisted of categorical variables, there isn't a lot I can do to improve this result besides getting rid of the features that had a high P-value since they did not help my model explain the sales of the games. After I got rid of them, my final OLS and coefficients consisted of the following:
+
 <p align="center">
-  <img src="./Images/Initial OLS Coefficients 1.png" title="Coefficients">
+  <img src="./Images/Final OLS.png" title="Final OLS">
 </p>
+
 <p align="center">
-  <img src="./Images/Initial OLS Coefficients 2.png" title="Coefficients">
-</p>
-<p align="center">
-  <img src="./Images/Initial OLS Coefficients 3.png" title="Coefficients">
-</p>
-<p align="center">
-  <img src="./Images/Initial OLS Coefficients 4.png" title="Coefficients">
+  <img src="./Images/Final OLS Coefficients.png" title="Final OLS">
 </p>
