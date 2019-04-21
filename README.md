@@ -24,3 +24,22 @@ Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to fu
 # Exploratory Data Analysis
 
 
+
+
+# Initial Ordinary Least Squares Result
+
+<p align="center">
+  <img src="./Images/Initial OLS.png" title="Initial OLS">
+</p>
+<p align="center">
+  <img src="./Images/Initial OLS Coefficients 1.png" title="Coefficients">
+</p>
+<p align="center">
+  <img src="./Images/Initial OLS Coefficients 2.png" title="Coefficients">
+</p>
+<p align="center">
+  <img src="./Images/Initial OLS Coefficients 3.png" title="Coefficients">
+</p>
+<p align="center">
+  <img src="./Images/Initial OLS Coefficients 4.png" title="Coefficients">
+</p>
