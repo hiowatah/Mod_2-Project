@@ -15,10 +15,12 @@ In this project, I wanted to see if the total sales of a video game can be predi
 
 I got my data from VGChartz.com as it had all the information I needed as part of my initial hypothesis. If you want to see how I scraped the data from this website, please view my notebook titled: 'Video Game Scraper Notebook'.
 
-Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to further clean up my data. In order to ensure I was addressing a linear regression problem and not a time series problem, I identified the maximum value of the 'All_Time_Sales' column and identified that as my dependent variable. 
+Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to further clean up my data. The Game Title column had contained the information relating to game genre, publisher, and the console, so I parsed through it through a series of lambda functions to create the columns. My Final DataFrame looked like what you see below:
 
 <p align="center">
   <img src="./Images/Final DataFrame.png" title="Data Collected">
 </p>
+
+# Exploratory Data Analysis
 
 
