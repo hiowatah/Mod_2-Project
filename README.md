@@ -29,7 +29,7 @@ Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to fu
 # Initial Ordinary Least Squares Result
 
 <p align="center">
-  <img src="./Images/Initial OLS.png" title="Initial OLS">
+  <img src="./Images/Initial OLS.png" title="Initial OLS" style="width:200px;height:400px>
 </p>
 
 Because most of my data consisted of categorical variables, there isn't a lot I can do to improve this result besides getting rid of the features that had a high P-value since they did not help my model explain the sales of the games. After I got rid of them, my final OLS and coefficients consisted of the following:
