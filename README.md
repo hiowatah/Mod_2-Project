@@ -18,7 +18,7 @@ I got my data from VGChartz.com as it had all the information I needed as part o
 Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to further clean up my data. The Game Title column had contained the information relating to game genre, publisher, and the console, so I parsed through it through a series of lambda functions to create the columns. My Final DataFrame looked like what you see below:
 
 <p align="center">
-  <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:200px;height:200px>
+  <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:100px;height:100px>
 </p>
 
 # Exploratory Data Analysis
@@ -29,13 +29,13 @@ Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to fu
 # Initial Ordinary Least Squares Result
 
 <p align="center">
-  <img src="./Images/Initial OLS.png" title="Initial OLS" style="width:200px;height:200px>
+  <img src="./Images/Initial OLS.png" title="Initial OLS" style="width:100px;height:100px>
 </p>
 
 Because most of my data consisted of categorical variables, there isn't a lot I can do to improve this result besides getting rid of the features that had a high P-value since they did not help my model explain the sales of the games. After I got rid of them, my final OLS and coefficients consisted of the following:
 
 <p align="center">
-  <img src="./Images/Final OLS.png" title="Final OLS" style="width:200px;height:200px>
+  <img src="./Images/Final OLS.png" title="Final OLS" style="width:100px;height:100px>
 </p>
 
 <p align="center">
