@@ -39,7 +39,7 @@ Because most of my data consisted of categorical variables, there isn't a lot I 
 </p>
 
 <p align="center">
-  <img src="./Images/Final OLS Coefficients.png" title="Final OLS">
+  <img src="./Images/Final OLS Coefficients.png" title="Final OLS Coefficients" width:200px;height:600px>
 </p>
 
 # Final OLS Analysis and Next Steps
