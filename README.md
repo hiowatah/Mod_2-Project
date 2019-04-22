@@ -25,19 +25,19 @@ My Final DataFrame looked like what you see below:
 Once I got all my data I performed some exploratory data analysis to take a look at my data. 
 
 <p align="center">
-  <img src="./Images/EDA Consoles.png" title="Console With The Most Sales 2017-2018">
+  <img src="./Images/EDA Consoles.png" title="Consoles with the best selling games 2017 to 2018" style="width:100px;height:100px>
 </p>
 
 As you can see above, the most popular consoles between 2017 and 2018 in order were the PS4, Nintendo Switch, Xbox One, and the Nintendo 3DS. 
 
 <p align="center">
-  <img src="./Images/EDA Publishers.png" title="Publishers With The Most Sales 2017-2018">
+  <img src="./Images/EDA Publishers.png" title="Publishers With The Most Sales 2017 to 2018">
 </p>
 
 As you can see above, the publishers with the best selling games between 2017 and 2018 included Nintendo, EA, Take-Two, and Activision. This makes sense with the big releases of Super Smash Brothers, Red Dead Redemption 2, Fifa 2019 and Madden 2k19, and Call of Duty which are the main staples of these publishers.
 
 <p align="center">
-  <img src="./Images/EDA Genres.png" title="Genres With The Most Sales 2017-2018">
+  <img src="./Images/EDA Genres.png" title="Genres With The Most Sales 2017 to 2018">
 </p>
 
 As you can see above, the most popular genres included Action, Shooter, and Sports which is in line with the top publishers chart. 
