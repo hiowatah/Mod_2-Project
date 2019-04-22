@@ -22,6 +22,9 @@ My Final DataFrame looked like what you see below:
 </p>
 
 
+
+
+
 # Exploratory Data Analysis
 Once I got all my data I performed some exploratory data analysis to take a look at my data. 
 
