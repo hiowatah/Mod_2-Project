@@ -47,13 +47,13 @@ As you can see above, the most popular genres included Action, Shooter, and Spor
 # Initial Ordinary Least Squares Result
 
 <p align="center">
-  <img src="./Images/Initial OLS.png" title="Initial OLS">
+  <img src="./Images/Initial OLS.png" title="Initial OLS" width="600" height="400">
 </p>
 
 Because most of my data consisted of categorical variables, there isn't a lot I can do to improve this result besides getting rid of the features that had a high P-value since they did not help my model explain the sales of the games. After I got rid of them, my final OLS and coefficients consisted of the following:
 
 <p align="center">
-  <img src="./Images/Final OLS.png" title="Final OLS">
+  <img src="./Images/Final OLS.png" title="Final OLS" width="600" height="400">
 </p>
 
 <p align="center">
