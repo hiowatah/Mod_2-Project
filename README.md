@@ -21,6 +21,7 @@ My Final DataFrame looked like what you see below:
   <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:100px;height:100px>
 </p>
 
+
 # Exploratory Data Analysis
 Once I got all my data I performed some exploratory data analysis to take a look at my data. 
 
@@ -42,7 +43,6 @@ As you can see above, the publishers with the best selling games between 2017 an
 
 As you can see above, the most popular genres included Action, Shooter, and Sports which is in line with the top publishers chart. 
 
-
 # Initial Ordinary Least Squares Result
 
 <p align="center">
@@ -60,6 +60,14 @@ Because most of my data consisted of categorical variables, there isn't a lot I 
 </p>
 
 # Final OLS Analysis and Next Steps
+
+<p align="center">
+  <img src="./Images/Residuals.png" title="Residuals">
+</p>
+
+<p align="center">
+  <img src="./Images/QQ Plot.png" title="QQ Plot">
+</p>
 
 As you can see from above, consoles had a negative coefficient along with really high P-values when it came to predicting total sales of video games. This makes sense because games sell consoles, not the other way around. For example, the release of Super Smash Brothers Ultimate has the capability of spiking Nintendo Switch sales because people want to play that game. A few other things to highlight include the extraordinarily high coefficients for Take-Two Interactive, Nintendo, Sony Computer Entertainment, EA, and Activision. These publishers are amongst the heavy hitters in the industry and it makes sense for their association with a title to automatically increase the sale prospects of a game.
 
