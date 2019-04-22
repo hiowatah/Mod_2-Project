@@ -59,6 +59,8 @@ Because most of my data consisted of categorical variables, there isn't a lot I 
   <img src="./Images/Final OLS Coefficients.png" title="Final OLS Coefficients" width:200px;height:600px>
 </p>
 
+As you can see from above, consoles had a negative coefficient along with really high P-values when it came to predicting total sales of video games. This makes sense because games sell consoles, not the other way around. For example, the release of Super Smash Brothers Ultimate has the capability of spiking Nintendo Switch sales because people want to play that game. A few other things to highlight include the extraordinarily high coefficients for Take-Two Interactive, Nintendo, Sony Computer Entertainment, EA, and Activision. These publishers are amongst the heavy hitters in the industry and it makes sense for their association with a title to automatically increase the sale prospects of a game.
+
 # Final OLS Analysis and Next Steps
 
 <p align="center">
@@ -69,6 +71,10 @@ Because most of my data consisted of categorical variables, there isn't a lot I 
   <img src="./Images/QQ Plot.png" title="QQ Plot">
 </p>
 
-As you can see from above, consoles had a negative coefficient along with really high P-values when it came to predicting total sales of video games. This makes sense because games sell consoles, not the other way around. For example, the release of Super Smash Brothers Ultimate has the capability of spiking Nintendo Switch sales because people want to play that game. A few other things to highlight include the extraordinarily high coefficients for Take-Two Interactive, Nintendo, Sony Computer Entertainment, EA, and Activision. These publishers are amongst the heavy hitters in the industry and it makes sense for their association with a title to automatically increase the sale prospects of a game.
+Based on my Y and fitted vs X graph, it is evident that I need to implement stronger variables into my model to make the relationship more apparent and linear. Right now, it is only slightly sloping upwards indicating that weeks released and sales have a slight correlation. If I were to obtain datapoints on the review scores for the games in my dataset, I believe the correlation line would improve.
+
+Based on my residuals plot, there does appear to be randomness on my graph which indicates that the OLS assumption of homoskedasticity holds.
+
+Finally, based on my QQ Plot, it appears that my data has features of both a negative skew and a positive skew, with the positive skew being stronger. Also, both ends of my plot move away from the normal distribution line indicating fat tails on my distribution plot. This is a strong indicator that additional sources of data would be very helpful in normalizing my data and providing additional insight on what affects the sales of video games. 
 
 To improve this model, I wanted to include the reviews of the games in my data because there should be a strong influence of a high rating and the sales of the game which would help improve my coefficient of determination. However, the metacritic was not scraping friendly and so I was not able to obtain that data.
