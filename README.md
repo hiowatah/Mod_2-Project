@@ -21,9 +21,7 @@ My Final DataFrame looked like what you see below:
   <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:100px;height:100px>
 </p>
 
-
-
-
+As you can see above, I have a lot of categorical variables which I will be implementing into my OLS model, which I will discuss below. 
 
 # Exploratory Data Analysis
 Once I got all my data I performed some exploratory data analysis to take a look at my data. 
