@@ -18,7 +18,7 @@ In order to get the features for my model, I collected my data from VGChartz.com
 My Final DataFrame looked like what you see below:
 
 <p align="center">
-  <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:100px;height:100px>
+  <img src="./Images/Final DataFrame.png" title="Data Collected">
 </p>
 
 As you can see above, I have a lot of categorical variables which I will be implementing into my OLS model, which I will discuss below. 
@@ -27,7 +27,7 @@ As you can see above, I have a lot of categorical variables which I will be impl
 Once I got all my data I performed some exploratory data analysis to take a look at my data. 
 
 <p align="center">
-  <img src="./Images/EDA Consoles.png" title="Consoles with the best selling games 2017 to 2018" style="width:100px;height:100px>
+  <img src="./Images/EDA Consoles.png" title="Consoles with the best selling games 2017 to 2018">
 </p>
 
 As you can see above, the most popular consoles between 2017 and 2018 in order were the PS4, Nintendo Switch, Xbox One, and the Nintendo 3DS. 
@@ -47,13 +47,13 @@ As you can see above, the most popular genres included Action, Shooter, and Spor
 # Initial Ordinary Least Squares Result
 
 <p align="center">
-  <img src="./Images/Initial OLS.png" title="Initial OLS" style="width:100px;height:100px>
+  <img src="./Images/Initial OLS.png" title="Initial OLS">
 </p>
 
 Because most of my data consisted of categorical variables, there isn't a lot I can do to improve this result besides getting rid of the features that had a high P-value since they did not help my model explain the sales of the games. After I got rid of them, my final OLS and coefficients consisted of the following:
 
 <p align="center">
-  <img src="./Images/Final OLS.png" title="Final OLS" style="width:100px;height:100px>
+  <img src="./Images/Final OLS.png" title="Final OLS">
 </p>
 
 <p align="center">
