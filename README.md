@@ -18,15 +18,16 @@ In order to get the features for my model, I collected my data from VGChartz.com
 My Final DataFrame looked like what you see below:
 
 <p align="center">
-  <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:100px;height:100px>
+  <img src="./Images/Final DataFrame.png" title="Data Collected">
 </p>
 
+As you can see above, I have a lot of categorical variables which I will be implementing into my OLS model, which I will discuss below. 
 
 # Exploratory Data Analysis
 Once I got all my data I performed some exploratory data analysis to take a look at my data. 
 
 <p align="center">
-  <img src="./Images/EDA Consoles.png" title="Consoles with the best selling games 2017 to 2018" style="width:100px;height:100px>
+  <img src="./Images/EDA Consoles.png" title="Consoles with the best selling games 2017 to 2018" width="600" height="400">
 </p>
 
 As you can see above, the most popular consoles between 2017 and 2018 in order were the PS4, Nintendo Switch, Xbox One, and the Nintendo 3DS. 
@@ -46,17 +47,17 @@ As you can see above, the most popular genres included Action, Shooter, and Spor
 # Initial Ordinary Least Squares Result
 
 <p align="center">
-  <img src="./Images/Initial OLS.png" title="Initial OLS" style="width:100px;height:100px>
+  <img src="./Images/Initial OLS.png" title="Initial OLS" width="600" height="400">
 </p>
 
 Because most of my data consisted of categorical variables, there isn't a lot I can do to improve this result besides getting rid of the features that had a high P-value since they did not help my model explain the sales of the games. After I got rid of them, my final OLS and coefficients consisted of the following:
 
 <p align="center">
-  <img src="./Images/Final OLS.png" title="Final OLS" style="width:100px;height:100px>
+  <img src="./Images/Final OLS.png" title="Final OLS" width="600" height="400">
 </p>
 
 <p align="center">
-  <img src="./Images/Final OLS Coefficients.png" title="Final OLS Coefficients" width:200px;height:600px>
+  <img src="./Images/Final OLS Coefficients.png" title="Final OLS Coefficients" width="500" height="800">
 </p>
 
 As you can see from above, consoles had a negative coefficient along with really high P-values when it came to predicting total sales of video games. This makes sense because games sell consoles, not the other way around. For example, the release of Super Smash Brothers Ultimate has the capability of spiking Nintendo Switch sales because people want to play that game. A few other things to highlight include the extraordinarily high coefficients for Take-Two Interactive, Nintendo, Sony Computer Entertainment, EA, and Activision. These publishers are amongst the heavy hitters in the industry and it makes sense for their association with a title to automatically increase the sale prospects of a game.
@@ -77,4 +78,4 @@ Based on my residuals plot, there does appear to be randomness on my graph which
 
 Finally, based on my QQ Plot, it appears that my data has features of both a negative skew and a positive skew, with the positive skew being stronger. Also, both ends of my plot move away from the normal distribution line indicating fat tails on my distribution plot. This is a strong indicator that additional sources of data would be very helpful in normalizing my data and providing additional insight on what affects the sales of video games. 
 
-To improve this model, I wanted to include the reviews of the games in my data because there should be a strong influence of a high rating and the sales of the game which would help improve my coefficient of determination. However, the metacritic was not scraping friendly and so I was not able to obtain that data.
+To improve this model, I would like to find a way to include the reviews of the games in my data because there should be a strong influence of a high rating and the sales of the game which would help improve my coefficient of determination. However, my attempts to scrape metacritic did not pan out as the site is not scraping friendly and so I was not able to obtain that data. I believe other variables of interest would include initial twitch viewership numbers as well as how well the game is marketed leading to its release. Having this additional features would definitely make the model more robust and predictive of future sales.
