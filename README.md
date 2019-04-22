@@ -2,7 +2,7 @@
 
 # Project Overview
 
-In this project, I wanted to see if the total sales of a video game can be predicted by knowing general information about the game. As a gamer, I typically have an intuition of how well a game will sell based on my experience following the industry. I wanted to see if I could quantify this intuition into a linear regression model.
+For this project, I wanted to see if I could predict the total sales of a video game using linear regression. As a gamer, I typically have an intuition of how well a game will sell based on my experience following the industry. I wanted to see if I could quantify this intuition into a linear regression model using Python.
 
 <u><b> Key Variables to Predict Sales </b></u>
 <br>
@@ -13,17 +13,34 @@ In this project, I wanted to see if the total sales of a video game can be predi
 
 # Data Collection and Wrangling
 
-I got my data from VGChartz.com as it had all the information I needed as part of my initial hypothesis. If you want to see how I scraped the data from this website, please view my notebook titled: 'Video Game Scraper Notebook'.
+In order to get the features for my model, I collected my data from VGChartz.com as it had all the information I needed. I collected the top 30 games sold on a weekly basis for 103 weeks. This is because the site did not have any information for the week ending September 16, 2017. Once I scraped the data using beautifulsoup, I put my data into a pandas dataframe in order to clean it up and perform further analysis. The Game Title column had contained the information relating to game genre, publisher, and the console, so I parsed through it through a series of lambda functions to create the columns. If you want to see how I scraped the data from this website, please view my notebook titled: 'Video Game Scraper Notebook'. If you want to see how I cleaned my data in pandas, please view my notebook titled: 'Gaming Data Cleansing'.
 
-Once I obtained the data, I saved it onto a Pandas DataFrame and proceeded to further clean up my data. The Game Title column had contained the information relating to game genre, publisher, and the console, so I parsed through it through a series of lambda functions to create the columns. My Final DataFrame looked like what you see below:
+My Final DataFrame looked like what you see below:
 
 <p align="center">
   <img src="./Images/Final DataFrame.png" title="Data Collected" style="width:100px;height:100px>
 </p>
 
 # Exploratory Data Analysis
+Once I got all my data I performed some exploratory data analysis to take a look at my data. 
 
+<p align="center">
+  <img src="./Images/EDA Consoles.png" title="Console With The Most Sales 2017-2018" style="width:100px;height:100px>
+</p>
 
+As you can see above, the most popular consoles between 2017 and 2018 in order were the PS4, Nintendo Switch, Xbox One, and the Nintendo 3DS. 
+
+<p align="center">
+  <img src="./Images/EDA Publishers.png" title="Publishers With The Most Sales 2017-2018" style="width:100px;height:100px>
+</p>
+
+As you can see above, the publishers with the best selling games between 2017 and 2018 included Nintendo, EA, Take-Two, and Activision. This makes sense with the big releases of Super Smash Brothers, Red Dead Redemption 2, Fifa 2019 and Madden 2k19, and Call of Duty which are the main staples of these publishers.
+
+<p align="center">
+  <img src="./Images/EDA Genres.png" title="Genres With The Most Sales 2017-2018" style="width:100px;height:100px>
+</p>
+
+As you can see above, the most popular genres included Action, Shooter, and Sports which is in line with the top publishers chart. 
 
 
 # Initial Ordinary Least Squares Result
