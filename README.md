@@ -2,7 +2,7 @@
 
 # Project Overview
 
-For this project, I wanted to see if I could predict the total sales of a video game using linear regression. As a gamer, I typically have an intuition of how well a game will sell based on my experience following the industry. I wanted to see if I could quantify this intuition into a linear regression model using Python.
+For this project, I wanted to see if I could predict the total sales of a video game using linear regression. As a gamer, I typically have an intuition of how well a game will sell based on my experience following the industry. I wanted to see if I could quantify this intuition into a linear regression model using Python. While the data I obtained lends itself to being a time-series issue, I used average values to minimize the time-series impact on this problem as the goal was to practice using Linear Regression.
 
 <u><b> Key Variables to Predict Sales </b></u>
 <br>
