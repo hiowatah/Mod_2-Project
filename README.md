@@ -9,7 +9,8 @@ For this project, I wanted to see if I could predict the total sales of a video 
 * How strongly does the genre of the game affect sales?
 * Do certain publishers have a strong record of high sales?
 * Is there a certain console which will have a stronger impact on sales than others?
-* How much better do franchise games sell than new IPs? 
+* How much better do franchise games sell than new IPs?
+* Does the review the game receive have a significant impact on the sales?
 
 # Data Collection and Wrangling
 
